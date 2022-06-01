@@ -1,0 +1,29 @@
+REALIDADE AUMENTADA
+
+Designa-se Realidade Aumentada (RA) ou (AR) a integração de elementos ou informações virtuais a visualizações do mundo real através de uma câmera e com o uso de sensores de movimento como giroscópio e acelerômetro. O uso mais popular da realidade aumentada é o entretenimento através dos filtros para fotos em aplicativos móveis de redes sociais e jogos como o Pokémon GO. A realidade aumentada é utilizada de muitas formas nas áreas do ensino, design de produtos, ações de marketing, em treinamento e suporte em plantas industriais, entre outros. O uso de vídeos transmitidos ao vivo digitalmente processados e "ampliados" pela adição de gráficos criados pelo computador também podem ser considerados como um tipo de realidade aumentada. Um usuário da RA pode utilizar óculos translúcidos ou câmeras acopladas a um dispositivo computacional, e através destes, poderá ver o mundo real bem como imagens geradas por computador projetadas no mundo.
+É uma experiência interativa de um mundo real, onde objetos que residem no mundo real são “acentuados” por informação perceptiva criada por computadores, incluindo visual, auditiva, háptica, somatossensorial e olfatória. Pode ser construtiva (agrega ao ambiente natural) ou destrutiva (que mascara o ambiente natural). A realidade aumentada altera o mundo real do usuário, enquanto a realidade virtual substitui completamente o mundo real do expectador. Realidade aumentada é relacionada a dois termos muito usados, realidade mista, e realidade mediada por computadores.
+
+Através do aplicativo leitor deste tipo de etiqueta instalado em tablet ou smartphone e com conexão à internet, pode-se ter acesso a uma espécie de guia virtual, que indica os locais aos quais o turista deve ir (inclusive traçando a rota para chegar até o local) e, ao chegar, mostrar a história, curiosidades, opções de passeio e tudo mais o que for pertinente. Diante disto, não é necessário ir muito longe para imaginar porque a realidade aumentada está tão em alta em diversos campos, incluindo o marketing e a publidade.
+
+COMO ELA FUNCIONA?
+
+Agora que você já sabe o que é realidade aumentada, provavelmente deve estar se perguntando como ela funciona. Simples: através de um software, um marcador no mundo físico e do GPS.
+No exemplo dado acima, a etiqueta QR corresponde ao marcado no mundo físico, o app leitor da etiqueta corresponde à porta de entrada ao software que fornece as informações ao usuário e o GPS funciona como o 'olho' deste software, pois é ele quem indica o local do usuário no mundo físico.
+Por meio de softwares específicos, é feita uma integração entre os dois pontos e o resultado é a apresentação de recursos específicos para o consumidor. Por exemplo, por meio do mapeamento da sua casa, é possível transformá-la no cenário de um jogo FPS, no qual o mapa em questão são os cômodos da sua residência.
+Três componentes básicos são necessários para a existência da Realidade Aumentada:
+1. Objeto real algum tipo de marca de referência, que possibilite a interpretação e criação do objeto virtual;
+2. Câmera ou dispositivo capaz de transmitir a imagem do objeto real;
+3. Software capaz de interpretar o sinal transmitido pela câmera ou dispositivo.
+
+DIFERENTES TIPOS, PARA DIFERENTES APLICAÇÕES
+
+A Realidade Aumentada não está restrita a uma única forma de realização. É possível utilizá-la tanto com imagens impressas, para geração de objetos — interativos ou não —, bem como sem qualquer tipo de objeto pré-definido.
+
+APLICAÇÕES
+
+A Realidade Aumentada não tem limite de aplicações. Ela pode ser usada no entretenimento, para criação de jogos muito mais interativos do que os já existentes; melhoria de processos da medicina, como cirurgias remotas, nas quais o médico pode estar a quilômetros de distância do paciente; indústria automobilística, facilitando a manutenção do carro pelo próprio dono, através de manuais de instrução interativos; além de milhares de outras alternativas que provavelmente ainda veremos serem criadas.
+Você deve se lembrar dos “tamagochis”, ou bichinhos virtuais, como também eram chamados. Os pequenos aparelhos fizeram a cabeça de milhões de adolescentes nos anos 1990. Depois de pouco tempo, eles simplesmente desapareceram sem dar lugar a um sucessor. Mas os fãs desse tipo de brinquedo podem esperar um novo lançamento. A Sony, gigante do mundo dos eletrônicos e do entretenimento, tem o lançamento de um bicho virtual chamado EyePet, ainda para o ano de 2009.
+
+INFINITAS POSSIBILIDADES
+
+A Realidade Aumentada ainda está em uma fase inicial de desenvolvimento, mas aplicações incríveis já foram criadas para ela. Imagine poder abrir um livro qualquer e assistir à batalha do bandido contra o mocinho, naquela história épica e sangrenta. Nenhum monitor seria necessário, pois o livro viria com óculos especiais que criariam as imagens diante dos seus olhos, a cada nova página aberta. Ou ainda, suponha que você comprou o carro dos seus sonhos, mas não tem a menor ideia da quantidade de recursos que o veículo possui. A Realidade Aumentada permitiria que objetos virtuais fossem colocados na sua frente e dessem as instruções que você deveria seguir para mexer no complexo funcionamento do automóvel.
