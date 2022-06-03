@@ -1,0 +1,32 @@
+COMO SURGIU A REALIDADE AUMENTADA?
+
+Muitos pensam que a realidade aumentada é uma tecnologia nova, mas isso é um engano. O marco inicial da realidade aumentada teve início em 1968 com Ivan Sutherland que desenvolveu um sistema Head Mounted Display, abreviado como HMD. É um dispositivo usado na cabeça como um capacete, que possui uma pequena tela na parte da frente.
+Porém, o conceito de realidade aumentada começou a ser utilizado somente na década de 90. Atualmente, a tecnologia de realidade aumentada evoluiu bastante e se espalhou em diversas áreas.
+Esse tema também é muito abordado em filmes de ficção e na maioria deles são utilizadas tecnologias de realidade aumentada que ainda nem existem no nosso mundo.
+
+ÓCULOS DE REALIDADE AUMENTADA: OS MELHORES DISPOSITIVOS
+
+Mais realista que as telas, os funcionam como uma conexão entre o mundo real e virtual.
+O Google é uma das empresas que está investindo nessa tecnologia. Eles criaram um óculos de realidade aumentada, chamado de Google Glass.
+Este óculos projeta imagens em um prisma e as mesmas são refletidas para dentro da nossa retina. Essa imagem se sobrepõe ao ambiente, gerando uma mistura entre os dois mundos, o virtual e o real.
+Um dos dispostivos de RM mais aguardados é o Magic Leap One que com a sua tecnologia de “Lightfield Photonics” promete revolucionar o mundo de RA e MR. A tecnologia promete “gerar luz digital em diferentes profundidades e combinar perfeitamente com a luz natural para produzir objetos digitais realistas que coexistem no mundo real”. A ideia é que essa tecnologia avançada permita ao nosso cérebro processar naturalmente objetos digitais da mesma forma que os objetos do mundo real, com o objetivo de tornar os óculos inteligentes mais confortáveis de usar por longos períodos de tempo.
+A empresa Magic Leap, apesar de ainda nem sequer ter lançado o único dispositivo no mercado, tem recebido um grande investimento, no total de 2,3 mil milhões de dólares, de vários investidores importantes como Google, Alibaba, JP Morgan e Warner Bros entre outros[9], gerando por esse facto uma grande expetativa de que haja uma enorme revolução tecnológica na área de RA.
+
+REALIDADE AUMENTADA EM FILMES
+
+Se você gosta de filmes de ficção científica, com certeza já viu o uso da realidade aumentada em muitos deles. Logo, vamos falar de alguns deles e de como a realidade aumentada se faz presente.
+Um exemplo muito conhecido são os filmes do Homem de Ferro, com sua armadura capaz de lhe dar informações sobre os elementos que estão no ambiente, além de parâmetros da própria armadura.
+Também temos seu assistente J.A.R.V.I.S, uma inteligência artificialque ele mesmo desenvolveu e que em vários momentos dos filmes escaneia informações e as projeta em 3D no ambiente.
+Outros exemplos de filmes em que esse tema é abordado, como: Star Wars, Avatar, Vingadores, Transformers, entre vários outros.
+
+AUMENTADA REALIDADE: APLICAÇÕES
+
+A RA pode ser experienciada através de um grande número de dispositivos de hardware como smartphones, tablets, computadores fixos ou portáteis, óculos inteligentes e HMDs.
+Os HMDs de RA são dispositivos de elevado custo e têm um conjunto de hardware bastante especializado, que é o necessário para fazer a reconstrução tridimensional do espaço real. Atualmente, o HMD de RA mais conhecido é o Microsoft Hololens, que na verdade é um dispositivo de Realidade Mista.
+
+REALIDADE VIRTUAL, REALIDADE AUMENTADA E REALIDADE MISTA
+
+Milgram em 1994 definiu algo a que designou “Virtuality Continuum”: uma escala que ia desde o completamente virtual, a virtualidade, (que é vulgarmente conhecida por Realidade Virtual) e o completamente real, a realidade.
+Entre estes dois extremos situa-se a Realidade Mista (RM), que é a combinação do mundo virtual com o mundo real, onde é possível uma interação entre objetos reais e virtuais. A RA é um tipo de RM que se encontra mais próximo do extremo da realidade. Mais do que o dispositivo reconhecer o espaço real e apenas sobrepor elementos virtuais ao mesmo, a RM pretende, por exemplo, que um candeeiro virtual seja colocado numa mesa física real e seja afetado pela luz ambiente, de forma a que não seja possível distinguir-se se este é real ou virtual.
+A RM pretende ainda dar resposta a desafios técnicos como a oclusão de um elemento virtual por um elemento real, que é uma caraterística importante para que a integração do virtual com o real seja perfeita. Além disso, pretende-se com RM que seja possível manipular objetos virtuais. O Microsoft Hololens permite endereçar estes objetivos da RM e é por isso que é considerado um dispositivo desse tipo.
+
