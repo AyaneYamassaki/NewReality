@@ -1,7 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     border: 0;
+}
+
+#logoFooter img{
+    width: 7%;
+}
+#logoFooter { grid-area: header; }
+.cris {
+     grid-area: cris; 
+    }
+.dani {
+     grid-area: dani; 
+    }
+.henr {
+     grid-area: henr;
+     margin-left:-2%;
+    }
+.ayane {
+     grid-area: ayane;
+     margin-left:-3.5%;
+    }
+#last-line { grid-area: footer; }
+
+.grid-container {
+  font-family: 'Poiret One', cursive;
+  display: grid;
+  grid-template-areas:
+    'header  header'
+    'cris dani'
+    'henr ayane'
+    'footer footer';
+  /* gap: 10px; */
+  background-color: #babcbe;
+  padding: 10px;
+}
+
+.grid-container div {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  text-align: center;
+  /* padding: 20px 0; */
 }
 
 /* #menu{
@@ -10,6 +51,30 @@
     background-color: rgb(122, 0, 0);
 } */
 
-#last-line{
-    text-align:center;
+/* div.integrantes{
+    display: grid;
+    grid-template-areas:
+    "pessoa pessoa"
+    "pessoa pessoa";
 }
+.grid {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 3fr;
+    grid-gap: 10px;
+    background-color: #eee;
+  }
+  .item {
+    padding: 10px;
+    text-align: center;
+    background-color: #ccc;
+ } */
+  /* .item.item-1 {
+    grid-row-start: 1;
+    grid-row-end: 3;
+  } */
+
+/* #last-line{
+    text-align:center;
+    justify-content: center;
+} */
