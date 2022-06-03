@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
 
 *{
     padding: 0;
@@ -12,22 +12,43 @@
 #logoFooter { grid-area: header; }
 .cris {
      grid-area: cris; 
+     display: inline;
+     align-items: center;
     }
+.cris img{
+    width: 20%;
+}
 .dani {
-     grid-area: dani; 
-    }
+    grid-area: dani;
+    display: flex;
+    align-items: center;
+}
+.dani img{
+    width: 20%;
+}
 .henr {
      grid-area: henr;
      margin-left:-2%;
-    }
+     display: flex;
+     align-items: center;
+}
+.henr img{
+    width: 20%;
+}
 .ayane {
      grid-area: ayane;
-     margin-left:-3.5%;
-    }
+     /* margin-left:-3.5%; */
+     display: flex;
+     align-items: center;
+}
+.ayane img{
+    width: 20%;
+}
 #last-line { grid-area: footer; }
 
 .grid-container {
-  font-family: 'Poiret One', cursive;
+    color: #fff;
+font-family: 'Jost', sans-serif;
   display: grid;
   grid-template-areas:
     'header  header'
@@ -35,14 +56,14 @@
     'henr ayane'
     'footer footer';
   /* gap: 10px; */
-  background-color: #babcbe;
+  background:url(../img/blur_cinza.jpg);
   padding: 10px;
 }
 
 .grid-container div {
   /* background-color: rgba(255, 255, 255, 0.8); */
   text-align: center;
-  /* padding: 20px 0; */
+  padding: 20px 0;
 }
 
 /* #menu{
