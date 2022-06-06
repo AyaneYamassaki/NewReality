@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
 
 *{
     padding: 0;
@@ -6,17 +6,26 @@
     border: 0;
 }
 
-#logoFooter img{
+/*#logoFooter img{
     width: 7%;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
 }
 #logoFooter { grid-area: header; }
+
+#integrantes{
+    display:flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
 .cris {
      grid-area: cris; 
-     display: inline;
+     display: flex;
      align-items: center;
     }
 .cris img{
-    width: 20%;
+    width: 50%;
 }
 .dani {
     grid-area: dani;
@@ -24,7 +33,7 @@
     align-items: center;
 }
 .dani img{
-    width: 20%;
+    width: 50%;
 }
 .henr {
      grid-area: henr;
@@ -33,38 +42,39 @@
      align-items: center;
 }
 .henr img{
-    width: 20%;
-}
-.ayane {
-     grid-area: ayane;
+    width: 50%;
+} */
+/* .ayane {
+     grid-area: ayane; */
      /* margin-left:-3.5%; */
-     display: flex;
+     /* display: flex;
      align-items: center;
 }
 .ayane img{
-    width: 20%;
+    width: 50%;
 }
-#last-line { grid-area: footer; }
+#last-line { grid-area: footer; } */
 
-.grid-container {
+/* .grid-container {
     color: #fff;
 font-family: 'Jost', sans-serif;
   display: grid;
   grid-template-areas:
-    'header  header'
-    'cris dani'
-    'henr ayane'
-    'footer footer';
+    'header  header header header'
+    'cris dani henr ayane'
+    'footer footer footer footer'; */
   /* gap: 10px; */
-  background:url(../img/blur_cinza.jpg);
+  /* background:url(../img/blur_cinza.jpg);
   padding: 10px;
-}
+} */
 
-.grid-container div {
+/* .grid-container div {
+    align-items: center;
+    justify-content: space-between; */
   /* background-color: rgba(255, 255, 255, 0.8); */
-  text-align: center;
-  padding: 20px 0;
-}
+  /* text-align: left; */
+  /* padding: 20px 0; */
+/* } */
 
 /* #menu{
     width: 100%;
@@ -99,3 +109,76 @@ font-family: 'Jost', sans-serif;
     text-align:center;
     justify-content: center;
 } */
+
+.grid-container {
+     display: grid;
+     grid-template-columns: 1fr 4fr 1fr;
+     grid-template-rows: 1fr 1fr 1fr;
+     grid-template-areas: 
+       'logoFooter logoFooter logoFooter logoFooter'
+       'cris dani henr ayane'
+       'footer footer footer footer';
+     font-family: Sans-serif;
+     color: #ffffff;
+     background:url(../img/blur_cinza.jpg);
+  padding: 10px;
+   }
+
+#logoFooter { grid-area: logoFooter; }
+#logoFooter img{
+    width: 7%;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+}
+   
+   
+   .cris {
+    grid-area: cris; 
+    display: flex;
+    align-items: center;
+   }
+   .cris img{
+    width: 50%;
+}
+   
+.dani {
+    grid-area: dani;
+    display: flex;
+    align-items: center;
+}
+.dani img{
+    width: 50%;
+}
+.henr {
+     grid-area: henr;
+     margin-left:-2%;
+     display: flex;
+     align-items: center;
+}
+.henr img{
+    width: 50%;
+}
+
+   .ayane {
+    grid-area: ayane;
+    /* margin-left:-3.5%; */
+    display: flex;
+    align-items: center;
+}
+.ayane img{
+   width: 50%;
+}
+#last-line { grid-area: footer; }
+   
+   @media only screen and (max-width: 700px) {
+     .container {
+       
+     }
+   }
+   
+   @media only screen and (max-width: 500px) {
+     .container {
+       
+     }
+   }
