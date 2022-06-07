@@ -32,43 +32,51 @@ h1 {
 
 #realidadeaumentada p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #realidadeaumentada p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #comoelafunciona p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #aplicacoes p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #infinitaspossibilidades p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #comosurgiu p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #oculosra p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 #rafilmes p{
     text-indent: 2%;
-    margin: 0 7.5%;
-    line-height: 130%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
 }
 
 p {
@@ -92,11 +100,11 @@ a {
 
 h2 {
     color: #F2F2F2;
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'Jost', sans-serif;
     letter-spacing: .25em;
     text-align: center;
-    border-width: 1.5em;
+    border-width: .75em;
     border-style: solid;
     border-color: #344973;
     border-radius: 2em;
