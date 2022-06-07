@@ -40,13 +40,14 @@ h1 {
     text-indent: 2%;
     margin: 0 10%;
     line-height: 170%;
-    text-align: justify;
+    
 }
 #comoelafunciona p{
     text-indent: 2%;
     margin: 0 10%;
     line-height: 170%;
     text-align: justify;
+    position: relative;
 }
 #aplicacoes p{
     text-indent: 2%;
@@ -66,11 +67,11 @@ h1 {
     line-height: 170%;
     text-align: justify;
 }
-#oculosra p{
+#ocolosra p{
     text-indent: 2%;
     margin: 0 10%;
     line-height: 170%;
-    text-align: justify;
+    
 }
 #rafilmes p{
     text-indent: 2%;
@@ -83,7 +84,7 @@ p {
     color: #0D0D0D;
     /* font-size: 15px; */
     font-family: verdana;
-    /* text-align: justify; */
+    /*  */
     /* text-indent: 3cm; */
     /* line-height: 35px;
     margin-left: 175px;
@@ -92,7 +93,7 @@ p {
 
 a {
     align-items: center;
-    font-size: 10px;
+    font-size: .75em;
     text-decoration: none;
     color: #0D0D0D;
 }
@@ -124,27 +125,31 @@ h5 {
     font-size: 12px;
     border-style: solid;
     border-width: 1px;
-    padding: 15px 15px 15px 15px;
-    margin: 20px 15px 30px 15px;
-    border-radius: 100px 100px 100px 100px;
+    padding: 1.5%;
+    margin: 2% 1% 3% 1%;
+    /* 20px 15px 30px 15px */
+    border-radius: 100em;
 }
 
-ul li {
+ul{
     list-style: none;
     align-items: center;
     }
 
-.list ul li {
-        list-style: none;
-        align-items: center;
+.list ol{
+    margin: 0 15%;
+    width: 70%;
+    }
+.list ol li {
+        /* align-items: center; */
         color: #0D0D0D;
         font-size: 15px;
         font-family: verdana;
-        text-align: left;
-        text-indent: 3cm;
-        line-height: 35px;
-        margin-left: 175px;
-        margin-right: 175px;
+        /* text-align: left; */
+        /* text-indent: 3cm; */
+        line-height: 170%;
+        /* margin-left: 175px;
+        margin-right: 175px; */
         }
 
 .header {
@@ -176,11 +181,158 @@ ul li {
     border-radius:15px 15px 15px 15px;
 }
 
+/* imagens */
+#imagemcorpus img{
+    width: 60%;
+    margin: 0 20%;
+}
 
+/* grid 1 */
+#galeria {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 10%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+}
 
+.photoEsquerda1 img{
+  width: 99.5%;
+  margin: .5%;
+}
 
+.photoEsquerda2 img{
+  width: 99.5%;
+  margin: .5%;
+}
 
+.photoDireita1 img{
+  width: 99.5%;
+  margin: .5%;
+}
+
+.photoDireita2 img{
+  width: 99.5%;
+  margin: .5%;
+}
+
+/* grid 2 */
+#galeria2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 15%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+    width: 70%;
+}
+
+#black_chairE img{
+    width: 99.5%;
+    margin: .5%;
+  }
+  
+  #pink_chairD img{
+    width: 99.5%;
+    margin: .5%;
+  }
+
+/* grid 3 */
+#galeria3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 15%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+    width: 70%;
+}
+
+#filtro img{
+    width: 99.5%;
+    margin: .5%;
+  }
+  
+  #pokemon img{
+    width: 99.5%;
+    margin: .5%;
+  }
+/* grid 4 */
+#galeria4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 15%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+    width: 70%;
+}
+
+#virtualGuide img{
+    width: 99.5%;
+    margin: .5%;
+  }
+  
+  #virtualGuide2 img{
+    width: 99.5%;
+    margin: .5%;
+  }
+/* grid 5 */
+#galeria5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 15%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+    width: 70%;
+}
+
+#Magic_Leap img{
+    width: 99.5%;
+    margin: .5%;
+  }
+  
+  #HoloLens img{
+    width: 99.5%;
+    margin: .5%;
+  }
+/* grid 6 */
+#galeria6 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 15%;
+    padding: .8%;
+    background-color: rgb(125, 117, 138);
+    width: 70%;
+}
+
+#avatar img{
+    width: 99.5%;
+    margin: .5%;
+  }
+  
+  #homemdeferro img{
+    width: 99.5%;
+    margin: .5%;
+  }
+/* rodapé */
 footer{
+    margin-top: 2%;
     background:url(../img/blur_cinza.jpg);
     color: #fff;
 }
