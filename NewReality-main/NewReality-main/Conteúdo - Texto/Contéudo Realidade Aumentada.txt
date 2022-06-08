@@ -1,0 +1,84 @@
+REALIDADE AUMENTADA
+
+INTRODUÇÃO RA
+A realidade aumentada (RA) ou (AR) é a junção de elementos e informações virtuais, aplicadas ao mundo real através de uma câmera, com a ajuda de sensores de movimento como o giroscópio e o acelerômetro. Um exemplo de realidade aumentada seriam os filtros para as fotos, freqüentemente usadas em redes sociais, também em jogos como Pokémon GO.
+
+Essa ferramenta também é utilizada de muitas formas nas diferentes áreas de ensino, no design de produtos, ações de marketing, em treinamentos e em rascunhos de plantas industriais. O uso de vídeos transmitidos ao vivo e ampliados com a adição de gráficos criados por computadores que também são considerados um tipo de RA. Uma pessoa pode fazer uso de óculos translúcido ou câmeras em algum dispositivo para ver o mundo real bem como imagens geradas por um computador.
+
+RA é uma experiência interativa de um mundo real, onde objetos que residem no mundo real são “acentuados” por informação perceptiva criada por computadores, incluindo visual, auditiva, olfatória, háptica (relativo ao tato), somatossensoria. Pode ser construtiva (agrega ao ambiente natural) ou destrutiva (que mascara o ambiente natural).
+
+A RA designa a interação entre ambientes virtuais e o mundo físico. Um bom exemplo de realidade aumentada são as etiquetas QR Code em pontos turísticos de cidades, através do aplicativo leitor deste tipo de etiqueta instalado em tablet ou smartphone e com conexão à internet, pode-se ter acesso a uma espécie de guia virtual, que indica os locais aos qual o turista deve ir (inclusive traçando a rota para chegar até o local) e, ao chegar, mostrar a história, curiosidades, opções de passeio e tudo mais o que for pertinente. Diante disto, não é necessário ir muito longe para imaginar porque a realidade aumentada está tão em alta em diversos campos, incluindo o marketing e a publicidade.
+
+COMO SURGIU
+Apesar do entusiasmo sobre a tecnologia desde a década de 1930, a realidade aumentada começou a ser usada em 1962, quando foram implementados painéis inteligentes em aviões de guerra, que mostravam informações sobre a aeronave no próprio vidro dianteiro, de maneira a evitar que o piloto desviasse o olhar do seu percurso.
+
+Resumidamente, a RA teve sua origem em algo muito simples: etiquetas. Os códigos de barras não estavam mais cumprindo com perfeição a tarefa de carregar todas as informações que se queria obter através de sua leitura. Por isso, foram criados os códigos 2D (duas dimensões), que permitiam o armazenamento de muito mais informação do que os códigos de barras. Os códigos bidimensionais são justamente os responsáveis pela possibilidade de projetar objetos virtuais em uma filmagem do mundo real, melhorando as informações exibidas, expandindo as fronteiras da interatividade e até possibilitando que novas tecnologias sejam utilizadas, bem como as atuais se tornem mais precisas. A RA é utilizada combinando-se um código de duas dimensões com um programa de computador.
+
+Muitos pensam que a realidade aumentada é uma tecnologia nova, mas isso é um engano. O marco inicial da realidade aumentada teve início em 1968 com Ivan Sutherland que desenvolveu um sistema Head Mounted Display, abreviado como HMD. É um dispositivo usado na cabeça como um capacete, que possui uma pequena tela na parte da frente.
+
+Realidade Aumentada
+O termo, em si, é usado desde 1990, quando o pesquisador da Boeing, Tom Caudell, o utilizou para descrever um display usado por engenheiros que misturava gráficos virtuais com a realidade. Atualmente, a tecnologia de RA evoluiu bastante e se espalhou em diversas áreas. Suas aplicações são ilimitadas e pode ser usada em todas as áreas, tendo como limitador a imaginação.
+
+COMO FUNCIONA
+No exemplo anteriormente, a etiqueta QR (sigla do inglês Quick Response, "resposta rápida" em português) corresponde ao marcado no mundo físico, o aplicativo leitor da etiqueta corresponde à porta de entrada ao software que fornece as informações ao usuário e o GPS (Sistema de Posicionamento Global) funciona como o 'olho' deste software, pois é ele quem indica o local do usuário no mundo físico. Usando softwares específicos, é feita uma integração entre os dois pontos e o resultado é a apresentação de recursos específicos para o consumidor.
+
+Por exemplo, por meio do mapeamento da sua casa, é possível transformá-la no cenário de um jogo FPS (Frames per second, que significa quadros por segundo), no qual o mapa em questão são os cômodos da sua residência.
+
+Realidade Aumentada
+Realidade Aumentada
+Realidade Aumentada
+Realidade Aumentada
+Três componentes básicos são necessários para a existência da RA:
+
+Objeto real algum tipo de marca de referência, que possibilite a interpretação e criação do objeto virtual;
+Câmera ou dispositivo capaz de transmitir a imagem do objeto real;
+Software capaz de interpretar o sinal transmitido pela câmera ou dispositivo.
+O processo de formação do objeto virtual é o seguinte:
+
+Coloca-se o objeto real em frente à câmera, para que ela capte a imagem e transmita ao equipamento que fará a interpretação.
+A câmera “enxerga” o objeto e manda as imagens, em tempo real, para o software que gerará o objeto virtual.
+O software já estará programado para retornar determinado objeto virtual, dependendo do objeto real que for mostrado à câmera.
+O dispositivo de saída (que pode ser uma televisão ou monitor de computador) exibe o objeto virtual em sobreposição ao real, como se ambos fossem uma coisa só.
+Realidade Aumentada
+Realidade Aumentada
+APLICAÇÕES
+A RA pode ser usada para entreter, como em criação de jogos interativos; melhorias na área da medicina, como cirurgias remotas, nas quais o médico pode estar a quilômetros de distância do paciente; indústria automobilística, facilitando a manutenção do carro pelo próprio dono, através de manuais de instrução interativos; além de milhares de alternativas que provavelmente ainda veremos serem criadas.
+
+Pokémon Go foi um sucesso absoluto e revolucionou não só os jogos pra smartphone, mas também a principal tecnologia por trás dele, que a realidade aumentada. Ela permite que você adicione elementos virtuais em um ambiente real, tipo naves batalhando em cima da sua mesa ou um Pokémon aparecendo no meio da rua.
+
+Basicamente, o jogo funciona por meio da câmera, que coloca, na imagem que você vê através dela, criaturas que não estão lá – como um Pokémon. Para efeito de comparação, vale a menção do Snapchat, que põe sobre os rostos dos usuários acessórios virtuais.
+
+Realidade Aumentada
+Realidade Aumentada
+APLICAÇÃO: MANUAL
+O funcionamento é bem simples: é só instalar o aplicativo, batizado de Hyundai Virtual Guide, pegar o dispositivo e apontar para o painel ou para a parte da frente do veículo. Assim, o Virtual Guide irá mostrar mais informações sobre os componentes, livrando o usuário de precisar pegar o manual para descobrir o que fazem todos os controles dentro do carro, por exemplo.
+
+O uso do Virtual Guide pode ser feito também dentro do carro, para obter informações sobre o painel. Fica muito mais fácil ver o que aquele aviso que sempre fica piscando significa.
+
+No entanto, a Hyundai não é a única a investir na relação entre os veículos e a realidade aumentada: a própria Ferrari já criou um aplicativo para pintar o veículo virtualmente e exibir alguns componentes desmontados.
+
+Realidade Aumentada
+Realidade Aumentada
+APLICAÇÃO: ÓCULOS RA
+Mais realista que as telas, os funcionam como uma conexão entre o mundo real e virtual. O Google investiu nessa tecnologia, criaram um óculos de realidade aumentada, chamado de Google Glass. O óculos projeta imagens em um prisma e as mesmas são refletidas para dentro da nossa retina. Essa imagem se sobrepõe ao ambiente, gerando uma mistura entre os dois mundos, o virtual e o real.
+
+Headset RA chamado Magic Leap One Creator Edition de US$ 2.300 é um projeto independente (chamado de standalone) e não exige nenhum dispositivo externo para funcionar. Diferente de outros produtos em que é preciso um videogame, computador ou smartphone para dar potência de processamento, o Magic Leap One já vem com tudo isso incluso. Ou seja: uma economia nos itens secundários pode justificar o alto preço. Equipamento mescla mundo real e virtual. Usuários podem interagir com objetos e personagens em 3D.
+
+Microsoft, HoloLens o dispositivo de realidade mista da companhia. O HoloLens é definido por "imersão". Você pode interagir com hologramas como se estivessem "tocando" eles. Cada movimento gera algum tipo de reação, como girar, redimensionar e mover objetos completamente virtuais. Você ainda pode usar comandos de voz para navegadores e mexer configurações em barras de intensidade de forma completamente holográfica.
+
+Realidade Aumentada
+Realidade Aumentada
+APLICAÇÃO: RA EM FILMES
+Se você gosta de filmes de ficção científica, com certeza já viu o uso da realidade aumentada em muitos deles. Logo, vamos falar de alguns deles e de como a realidade aumentada se faz presente. Um exemplo muito conhecido são os filmes do Homem de Ferro, com sua armadura capaz de lhe dar informações sobre os elementos que estão no ambiente, além de parâmetros da própria armadura. Também temos seu assistente J.A.R.V.I.S, uma inteligência artificial que ele mesmo desenvolveu e que em vários momentos dos filmes escaneia informações e as projeta em 3D no ambiente. Outros exemplos de filmes em que esse tema é abordado, como: Star Wars, Avatar, Vingadores, Transformers, entre vários outros.
+
+Realidade Aumentada
+Realidade Aumentada
+RA, RV E RM
+A realidade virtual ou virtual reality (VR), termo em inglês, é um ambiente isolado criado por computador, onde o usuário interage com essa nova dimensão, sendo ela totalmente digital e não se misturando com o mundo real. É um termo bastante utilizado, porém é diferente da realidade aumentada.
+
+A união da realidade aumentada com a realidade virtual é o que chamamos de realidade mista, onde o universo virtual se mistura com o real diante dos nossos olhos, e o usuário pode interagir com os elementos das duas dimensões (HoloLens).
+
+CONCLUSÃO: POR QUE INVESTIR EM RA
+São diversos motivos. O primeiro é devido ao crescente número de acesso à web por dispositivos móveis. Segundo pesquisa divulgada pela IMS, 95% dos brasileiros que estão na web usam dispositivos móveis para se conectarem, sendo que muitas pessoas o fazem apenas através de smartphones (o que indica que o número de acesso por computadores está caindo).
+
+O segundo motivo está na versatilidade da tecnologia para marketing digital. Através da realidade aumentada o consumidor pode, por exemplo, saber o preço de uma mercadoria sem perguntar a um vendedor, ver dicas de como utilizar a peça de roupa que está pensando comprar, realizar campanhas para o lançamento de novos produtos ou serviços, dentre outros. O terceiro motivo está em seu preço. Por todos os benefícios que traz a RA é uma tecnologia acessível, e por isso, disponível para pequenas e médias empresas.

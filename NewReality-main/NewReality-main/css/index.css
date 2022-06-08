@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@300&display=swap');
+
+
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* #imagemcentro{
+    border-radius:30%;
+    width: 70%;
+} */
+
+/* body {
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 0px;
+    background-color: #F2F2F2;
+} */
+
+h1 {
+    color: rgba(34,110,147,1);
+    font-size: 3em;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding-top: 10%;
+    margin-bottom: 2%;
+    letter-spacing: 1%;
+    text-transform: uppercase;
+
+}
+
+#realidadeaumentada p{
+    text-indent: 2%;
+    margin: 0% 10%;
+    line-height: 180%;
+    text-align: justify;
+}
+#realidadeaumentada p{
+    text-indent: 2%;
+    margin: 0% 10%;
+    line-height: 180%;
+    
+}
+#comoelafunciona p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
+    position: relative;
+}
+#aplicacoes p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
+}
+#infinitaspossibilidades p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
+}
+#comosurgiu p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
+}
+#ocolosra p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    
+}
+#rafilmes p{
+    text-indent: 2%;
+    margin: 0 10%;
+    line-height: 170%;
+    text-align: justify;
+}
+
+p {
+    color: #0D0D0D;
+    /* font-size: 15px; */
+    font-size: 120%;
+    font-family: 'Palanquin', sans-serif;
+    /*  */
+    /* text-indent: 3cm; */
+    /* line-height: 35px;
+    margin-left: 175px;
+    margin-right: 175px; */
+}
+
+a {
+    align-items: center;
+    font-size: .75em;
+    text-decoration: none;
+    color: #0D0D0D;
+}
+
+
+h2 {
+    color: #F2F2F2;
+    font-size: 1.2em;
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    text-align: center;
+    border-width: .75em;
+    border-style: solid;
+    border-color: #344973;
+    border-radius: 2em;
+    margin: 5% 25%;
+    background-color: #344973;
+}
+
+h3 {  
+    font-size: 1em;
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+}
+
+
+
+h5 {
+    display: inline-block;
+    font-weight: normal;
+    font-family: verdana;
+    font-size: 13px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1.5%;
+    margin: 2% 1% 2% 1%;;
+    /* 20px 15px 30px 15px */
+    border-radius: 100em;
+}
+
+ul{
+    list-style: none;
+    align-items: center;
+    }
+
+.list ol{
+    margin: 0 15%;
+    width: 70%;
+    }
+.list ol li {
+        /* align-items: center; */
+        color: #0D0D0D;
+        font-size: 15px;
+        font-family: verdana;
+        /* text-align: left; */
+        /* text-indent: 3cm; */
+        line-height: 170%;
+        /* margin-left: 175px;
+        margin-right: 175px; */
+        }
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    }
+
+.header nav img{
+    max-width: 400px;
+    max-height: 400px;
+    align-items: center;
+}
+    
+.menu {
+    display: inline-flex;
+}
+
+.menu li {
+    margin: 10px 10px 10px 10px;
+}
+
+.menu li a img{  
+    
+    width: 25px;
+    height: 25px;
+    border-radius:15px 15px 15px 15px;
+}
+#imagemcentro img {
+    width: 60%;
+    margin: 0 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius:15px 15px 15px 15px;
+    
+}
+/* imagens */
+#imagemcorpus img{
+    width: 60%;
+    margin: 0 20%;
+}
+
+/* grid 1 */
+#galeria {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: 0 10%;
+    padding: .8%;
+    background-color: rgb(217, 217, 217);
+}
+
+.photoEsquerda1 img{
+    width: 99.5%;
+    margin: .5%;
+}
+
+.photoEsquerda2 img{
+    width: 99.5%;
+    margin: .5%;
+}
+
+.photoDireita1 img{
+  width: 99.5%;
+  margin: .5%;
+}
+
+.photoDireita2 img{
+    width: 99%;
+    margin: 0.5%;
+}
+
+/* grid 2 */
+#galeria2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: auto;
+    padding: 0.5%;
+    background-color: rgb(217, 217, 217);
+    width: 70%;
+}
+
+#black_chairE img{
+    width: 99%;
+    margin: 0.5%;
+  }
+  
+  #pink_chairD img{
+    width: 99%;
+    margin: 0.5%;
+  }
+
+/* grid 3 */
+#galeria3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: auto;
+    padding: 0.5%;
+    background-color: rgb(217, 217, 217);
+    width: 70%;
+}
+
+#filtro img{
+    width: 99%;
+    margin: 0.5%;
+  }
+  
+  #pokemon img{
+    width: 99%;
+    margin: 0.5%;
+  }
+/* grid 4 */
+#galeria4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: auto;
+    padding: 0.5%;
+    background-color: rgb(217, 217, 217);
+    width: 70%;
+}
+
+#virtualGuide img{
+    width: 99%;
+    margin: 0.5%;
+  }
+  
+  #virtualGuide2 img{
+    width: 99%;
+    margin: 0.5%;
+  }
+/* grid 5 */
+#galeria5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: auto;
+    padding: 0.5%;
+    background-color: rgb(217, 217, 217);
+    width: 70%;
+}
+
+#Magic_Leap img{
+    width: 99%;
+    margin: 0.5%;
+  }
+  
+  #HoloLens img{
+    width: 99%;
+    margin: 0.5%;
+  }
+/* grid 6 */
+#galeria6 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    font-family: Sans-serif;
+    color: #ffffff;
+    margin: auto;
+    padding: 0.5%;
+    background-color: rgb(217, 217, 217);
+    width: 70%;
+}
+
+#avatar img{
+    width: 99%;
+    margin: 0.5%;
+  }
+  
+  #homemdeferro img{
+    width: 99%;
+    margin: 0.5%;
+  }
+/* rodapé */
+footer{
+    margin-top: 2%;
+    background:url(../img/blur_cinza.jpg);
+    color: #fff;
+}
+
+
+div.logo img{
+    width: 10%;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.rodape{  
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    /* align-items:baseline; */
+    
+}
+#cris img{
+    width: 70%;
+}
+#dani img{
+    width: 70%;
+}
+#henr img{
+    width: 70%;
+}
+#ayane img{
+    width: 70%;
+}
+.pessoas{
+    margin: 0 auto;
+}
+
+/* footer figure img {
+    width: auto;
+    height: auto;
+} */
+
+footer p {
+    /* border: 0px;
+    margin: 5px;
+    padding: 0px; */
+    /* text-indent: 0cm; */
+    color: #ffffff;
+    font-size: .8em;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+}
+
+
+
+
+
